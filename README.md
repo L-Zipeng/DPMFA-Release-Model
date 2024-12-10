@@ -16,7 +16,7 @@ Keywords: Plastic; MFA; Release; Dynamic; Microplastics
 
 ### **Main Folders and Files**
 
-- **`dpmfa/`**
+- **`DPMFA-Release/`**
   - `CaseStudy_Runner.py`: Main script to execute case studies using the DPMFA model.
   - `DPMFA_Plastic_CH.db`: Database generated from the SQL Import floder, containing data for Switzerland's plastic flow analysis.
   - `TruncatingFunctions.py`: Contains utility functions to process and truncate data.
